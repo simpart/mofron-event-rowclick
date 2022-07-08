@@ -1,0 +1,23 @@
+{
+  "name": "mofron-event-rowclick",
+  "version": "0.0.1",
+  "description": "table row click event for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-event-rowclick.git"
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-event-rowclick/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-event-rowclick#readme"
+}
